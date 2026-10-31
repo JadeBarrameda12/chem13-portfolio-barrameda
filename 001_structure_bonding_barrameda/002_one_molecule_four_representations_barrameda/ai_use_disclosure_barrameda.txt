@@ -1,0 +1,14 @@
+AI and Digital Tool Disclosure:
+
+I hereby declare that the following digital tools were used responsibly in the preparation of this work:
+
+remove.bg: for removing image backgrounds
+MolView: for visualizing the Lewis structure of each compound
+Ketcher: for drawing the bond-line structures
+Canva: for designing the flashcards
+
+All information in this work was taken from the course module and credible sources such as PubChem and the National Institutes of Health (NIH). An AI assistant (Claude, by Anthropic) was used only to help me better understand the task and to check the grammar of this disclosure. I take full responsibility for the accuracy and final content of these flashcards.
+
+Respectfully.
+Jade B. Barrameda
+BSChE-2B
