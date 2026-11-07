@@ -1,0 +1,42 @@
+AI AND DIGITAL TOOL USE DISCLOSURE
+CHEM 13 - Asynchronous Activity No. 3: Name It, Draw It
+Student: Jade B. Barrameda, BS Chemical Engineering 2B
+Bicol University, College of Engineering, Department of Chemical Engineering
+
+1. NAMING AND CHECKING TOOL
+
+The Alkane (thealkane.com)
+- Part A: I rebuilt each given structure in The Alkane, atom by atom, and used it to check the name I had already typed. I recorded the returned name and a verdict (match or mismatch) on each card.
+- Part B: I built every structure in The Alkane from the given name, then used the returned name as a back-check. I recorded the returned name and a verdict on each card.
+- I did not use another name generator for any card.
+
+2. OTHER DIGITAL TOOL
+
+MolDraw
+- Used to draw the bond-line structures for Part A.
+
+3. AI TOOL
+
+Claude (Anthropic)
+I used Claude as learning and editing support, as allowed in Section 09 of the activity. Specifically, I used it to:
+- create the blank layout of the twenty cards, following the suggested card templates in Appendix A;
+- correct grammar and improve the wording of my naming trails and explanations
+- offer advices on card layout and design
+.
+
+I typed my own names and drew my own structures before sharing them with Claude. I used Claude's suggestions only after checking them against the structures and the IUPAC rules in Appendix B. The Alkane was used as the checker, not as a source of answers.
+
+4. RESPONSIBILITY
+
+I reviewed every name, structure, formula and explanation in this portfolio, and I remain responsible for their correctness.
+
+Respectfully,
+Jade B. Barrameda
+BS Chemical Engineering 2B
+
+References:
+The Alkane. (n.d.). The Alkane: IUPAC name generator [Web application]. Retrieved November 6, 2026, from https://thealkane.com/
+
+MolDraw. (n.d.). MolDraw [Web application]. Retrieved November 6, 2026, from https://moldraw.com/
+
+Anthropic. (n.d.). Claude [Large language model]. Retrieved November 6, 2026, from https://claude.ai/
